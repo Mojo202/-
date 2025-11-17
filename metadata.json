@@ -1,0 +1,7 @@
+{
+  "name": "محلل المقالات بالذكاء الاصطناعي",
+  "description": "An advanced tool that uses Gemini to provide in-depth analysis of any web article. It evaluates SEO, content quality, and predicts virality, leveraging Google Search and Maps for up-to-date, context-aware insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
